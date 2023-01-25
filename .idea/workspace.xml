@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="d556f352-0586-4b09-994b-05cca0592253" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/MyHashMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MyHashMap.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
